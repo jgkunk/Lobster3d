@@ -1,2 +1,3 @@
-# Lobster3d
-Lobstera alpha, beta and gamma 3d data outlines and R scripts
+Maddie
+======
+Includes 3-D data sets that can be accessed by R-scripts that are included.
